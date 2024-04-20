@@ -1,0 +1,16 @@
+{
+  "name": "bot-telegram",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "bot": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "node-telegram-bot-api": "^0.65.1"
+  }
+}
