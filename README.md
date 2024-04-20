@@ -1,2 +1,2 @@
 ### BOT NYA
-t.me/jf_cuy_bot.
+t.me/jf_cuy_bot
